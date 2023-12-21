@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡I'm Mikhail Gostev, a frontend developer from Moscow, Russia<br>🔭 I love board games above all and I'm always excited to play with new people!<br>👯 I'm currently looking for a full-time job<br>
+⚡I'm Mikhail Gostev, a frontend developer from Moscow, Russia<br>🔭 I love board games above all and I'm always excited to play with new people!<br>
 
 
 # 🌐 Socials:
